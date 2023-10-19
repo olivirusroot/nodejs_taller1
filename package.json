@@ -1,0 +1,14 @@
+{
+  "name": "taller_node1",
+  "version": "1.0.0",
+  "description": "Taller basico node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Grupo Tesla",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
